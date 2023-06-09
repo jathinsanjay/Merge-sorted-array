@@ -41,7 +41,7 @@ int main() {
             printf(", ");
         }
     }
-    printf("]\n");
+    printf("]\n ");
 
     return 0;
 }
